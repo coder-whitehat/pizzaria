@@ -1,0 +1,26 @@
+body {
+    text-align:center;
+    background-image: url("download\ \(5\).jpg") ;
+    background-size: cover;
+}
+.pizza {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+.pizza1 {
+  color: red;
+ 
+}
+#pizzas {
+    text-align: right;
+    margin: 50 200;
+}
+#recommendBox {
+    height: 50px;
+    width: 350px;
+    color:black;
+    background-color: skyblue;
+    
+}
+
